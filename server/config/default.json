@@ -1,0 +1,4 @@
+{
+   "mongoUri":"mongodb://localhost:27017",
+   "jwtSecret": "sl_kart"
+}
