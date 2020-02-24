@@ -35,6 +35,11 @@ module.exports = {
 
 ## App Info
 Node.js APIs
+0> api/auth/
+  
+  Login functionalty
+  provide username and password and get token 
+
 1> api/user/fetchUsers
 
 fetch Users and save it in master db
